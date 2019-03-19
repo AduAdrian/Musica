@@ -12,6 +12,7 @@ import {
 
 import { ArtistCard } from './components/ArtistCard';
 import { SearchResult } from './components/SearchResult';
+import {ratingChanged} from './components/ArtistCard'
 
 import './App.css';
 import { get } from 'https';
